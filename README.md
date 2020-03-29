@@ -44,4 +44,8 @@ You are required to submit the following:
 
 The URL to the deployed application
 
+https://lilianakendrick.github.io/workout-tracker/.
+
 The URL to the Github repository
+
+https://github.com/LilianaKendrick/workout-tracker.git
