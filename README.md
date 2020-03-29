@@ -44,7 +44,7 @@ You are required to submit the following:
 
 The URL to the deployed application
 
-https://lilianakendrick.github.io/workout-tracker/.
+https://radiant-temple-71636.herokuapp.com/?id=5e7ffedb4f94843adc2bc819
 
 The URL to the Github repository
 
